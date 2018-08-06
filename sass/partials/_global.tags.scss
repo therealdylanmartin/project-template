@@ -36,37 +36,6 @@ p {
     margin: 0;
 }
 
-h1 {
-    color: #fff;
-    font-family: $font-secondary;
-    font-weight: 700;
-}
-
-h2,
-h3,
-h4 {
-    color: $color-primary;
-    font-family: $font-primary;
-    font-variant: small-caps;
-    font-weight: 700;
-}
-
-p,
-p a {
-    font-family: $font-primary;
-    font-style: italic;
-}
-
-p {
-    color: $color-gray-dark;
-    font-weight: 400;
-    max-width: $p-max-width;
-}
-
-p a {
-    font-weight: 500;
-}
-
 img {
     border-style: none;
     display: block;

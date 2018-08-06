@@ -1,7 +1,7 @@
 {
-  "name": "wbtp",
+  "name": "project",
   "version": "1.0.0",
-  "description": "Nonprofit abolishonist group in Madison, WI",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "test",
